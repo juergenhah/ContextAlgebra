@@ -39,9 +39,9 @@ The implementation is structured into several modules according to the mathemati
  - **ConceptGenerator** establishes concepts, with a freely selected number of exemplars and contexts.
  - **ProtoCalculator** calculates prototypes for each level of a *ContextLattice*.
 
-# Example for a General Context Operation, full explanation on page 58 in dissertation
+# Example for a General Context Operation
 
-Module **GeneralContextOperation** shows an example of the context algebra refining concepts and calculating prototypes for contextualized concepts.
+Module **GeneralContextOperation** shows an example of the context algebra refining concepts and calculating prototypes for contextualized concepts. For an extended explanation look on page 58 in the dissertation.
 
 
 # Further Reading
